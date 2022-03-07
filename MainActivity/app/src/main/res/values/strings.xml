@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">MainActivity</string>
+    <string name="service_boutton">Mes services</string>
+    <string name="demande_boutton">MES DEMANDES</string>
+    <string name="search_service_boutton">RECHERCHER SERVICE</string>
+    <string name="proposer_boutton">PROPOSER SERVICE</string>
+    <string name="descriptif_app">
+        Bienvenue sur notre site de partage de services à la personne.
+        \nVous pouvez ici proposer des services aux particuliers et surtout trouver la réponse
+        à tous vos besoins.</string>
+    <string name="creerService">Créer service</string>
+    <string name="annulerService">Annuler</string>
+    <string name="uniteLocation">unité de location</string>
+    <string name="proposer_service">Proposer service</string>
+    <string name="partage_service">Partage Service</string>
+    <string name="cout_unite">Coût unité</string>
+    <string name="titreServiceView">Titre du service</string>
+    <string name="resumeServiceView">Résumé du service</string>
+    <string name="reservation">RESERVER SERVICE</string>
+    <string name="prix_service" />
+    <string name="duree_service" />
+    <string name="prix">prix</string>
+    <string name="dureeService">durée</string>
+    <string name="date_reservation">Date de réservation</string>
+    <string name="quantiteReserve">Quantité réservé</string>
+    <string name="coutResa">Cout de la réservation</string>
+    <string name="format_jj_mm_aaaa">format: jj-mm-aaaa</string>
+    <string name="prixTotalResa">cout total de la réservation</string>
+    <string name="par_ex_3">par ex: 3</string>
+    <string name="DemanserResa">Demander Réservation</string>
+    <string name="AnnulerResa">Annuler</string>
+</resources>

@@ -23,8 +23,20 @@
   <p>Une fois que l'utilisateur a trouvé le service qu'il cherchait, il peut cliquer sur le bouton réserver le service afin de réserver le service en indiquant la date de réservation ainsi que la quantité qu'il veut réserver suivant l'unité de location du service.</p>
   
   <h3> Aperçu des réalisations dans l'émulateur </h3>
+
   <h4> 1. Activité pour l'accueil </h4>
+  <img src = "./emulator/accueil.png">
+
   <h4> 2. Activité pour proposer un service </h4>
+  <img src = "./emulator/proposer_service.png">
+
   <h4> 3. Activité pour chercher un service </h4>
+  <img src = "./emulator/chercher_service1.png">
+  <img src = "./emulator/chercher_service2.png">
+  <img src = "./emulator/chercher_service3.png">
+
   <h4> 4. Activité pour réserver un service </h4>
+  <img src = "./emulator/reserver1.png">
+  <img src = "./emulator/reserver2.png">
+
   
